@@ -6,6 +6,7 @@ Simple prototype using Arduino to read temperature and trigger alerts using LEDs
 - Temperature reading
 - Status classification (cold, normal, hot)
 - Visual and sound alerts
+- using eps32
 
 ## Prototype
 https://www.tinkercad.com/things/g12cUYuosL0-temperatura-com-buzzer
